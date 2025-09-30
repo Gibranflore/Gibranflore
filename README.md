@@ -2,7 +2,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Gibran Flores</h1></summary>
+    <summary><h1 style="display: inline-block">Hola 👋, Soy Gibran Flores</h1></summary>
   </ul>
 </div>
 
@@ -15,11 +15,11 @@
 
 
 <!--Intro start-->
-- 🔭 Trabajo con ** React Js | MongoDB | Node Js | Exrpess Js | Nest Js | Vite**
+- 🔭 Trabajo con: React Js | MongoDB | Node Js | Exrpess Js | Nest Js | Vite
 
-- 👽 Lenguejes **JavaScript | TypesScript | Python | SQL**
+- 👽 Lenguejes: JavaScript | TypesScript | Python | SQL
 
-- 📝 De vez en cuendo escribo en: [Medium]([https://1010nishant.hashnode.dev/](https://medium.com/@gibran.floresmendieta))
+- 📝 De vez en cuendo escribo en: [Medium]([https://medium.com/@gibran.floresmendieta])
 
 - 🏠 Perfil de trabajo **👋** Encuentrame aqui –  [Linkedin](www.linkedin.com/in/gibranflores009) mi usuario!
 <!--Intro end-->
@@ -50,7 +50,7 @@
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Gibranflore&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
@@ -63,13 +63,13 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologias que uso👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,express,pencil,firebase,github,htmljs,md,materialui,mongodb,nodejs,postman,py,react,redux,tailwind,ts,vscode,nest&perline=14" />
   </a>
 </p>
 
@@ -78,7 +78,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Contacto🤝</h2></summary>
   </ul>
 </div>
 
