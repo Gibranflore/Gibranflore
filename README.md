@@ -1,10 +1,5 @@
 
-<div style="position: relative; display: inline-block; text-align: center;">
-  <img src="https://img2.wallspic.com/crops/1/9/7/2/4/142791/142791-graficos-arte-el_minimalismo-arte_fractal-simetria-3840x2160.jpg" alt="background" style="width: 100%; opacity: 0.3;">
-  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-    Hola 👋, Soy Gibran Flores
-  </h1>
-</div><!--h1 without bottom border-->
+<div id="user-content-toc"> <ul align="center"> <summary><h1 style="display: inline-block">Hola 👋, Soy Gibran Flores</h1></summary> </ul> </div><!--h1 without bottom border-->
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
