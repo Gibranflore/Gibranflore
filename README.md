@@ -69,9 +69,10 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,vite,vitest, jest,postgres,express,pencil,firebase,github,htmljs,md,materialui,mongodb,nodejs,postman,py,react,redux,tailwind,ts,vscode,nest&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,vite,vitest,jest,postgres,express,pencil,firebase,github,html,js,md,materialui,mongodb,nodejs,postman,py,react,redux,tailwind,ts,vscode,nest&perline=14" />
   </a>
 </p>
+
 
 
 <!-- Connect with me -->
@@ -100,11 +101,3 @@
   
 </div>
 
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
-
-Last Edited on: 29/4/2023
